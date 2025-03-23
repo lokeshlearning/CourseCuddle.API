@@ -1,0 +1,42 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CourseCuddle.API/.vs
+# Ignore build and debug output
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Ignore Visual Studio and Rider files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore dependencies
+packages/
+node_modules/
+
+# Ignore environment settings
+.env
+secrets.json
+
+# Ignore generated files
+Generated_Code/
+GeneratedFiles/
+
+# Ignore runtime and log files
+logs/
+*.log
+*.cache
+
+# Ignore Docker files
+docker-compose.override.yml
+*.container

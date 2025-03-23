@@ -1,0 +1,16 @@
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Debug\net9.0\CourseCuddle.Application.deps.json
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Debug\net9.0\CourseCuddle.Application.dll
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Debug\net9.0\CourseCuddle.Application.pdb
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Debug\net9.0\CourseCuddle.Core.dll
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Debug\net9.0\CourseCuddle.Core.pdb
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCuddle.Application.csproj.AssemblyReference.cache
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCuddle.Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCuddle.Application.AssemblyInfoInputs.cache
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCuddle.Application.AssemblyInfo.cs
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCuddle.Application.csproj.CoreCompileInputs.cache
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCuddle.Application.sourcelink.json
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCu.2A65B069.Up2Date
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCuddle.Application.dll
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\refint\CourseCuddle.Application.dll
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\CourseCuddle.Application.pdb
+Z:\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Debug\net9.0\ref\CourseCuddle.Application.dll

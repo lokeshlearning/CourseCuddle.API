@@ -1,0 +1,8 @@
+@CourseCuddle.API_HostAddress = http://localhost:5077
+
+GET {{CourseCuddle.API_HostAddress}}/api/coursecategory/GetCourseDetailsById/2
+Accept: application/json
+
+
+
+###

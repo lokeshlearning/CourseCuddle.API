@@ -1,0 +1,16 @@
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Release\net9.0\CourseCuddle.Application.deps.json
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Release\net9.0\CourseCuddle.Application.dll
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Release\net9.0\CourseCuddle.Application.pdb
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Release\net9.0\CourseCuddle.Core.dll
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\bin\Release\net9.0\CourseCuddle.Core.pdb
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCuddle.Application.csproj.AssemblyReference.cache
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCuddle.Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCuddle.Application.AssemblyInfoInputs.cache
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCuddle.Application.AssemblyInfo.cs
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCuddle.Application.csproj.CoreCompileInputs.cache
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCuddle.Application.sourcelink.json
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCu.2A65B069.Up2Date
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCuddle.Application.dll
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\refint\CourseCuddle.Application.dll
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\CourseCuddle.Application.pdb
+Z:\Course-Cuddle Project\CourseCuddle-API\CourseCuddle-API\CourseCuddle.Application\obj\Release\net9.0\ref\CourseCuddle.Application.dll
